@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch MyProgram",
+            "request": "launch",
+            "mainClass": "GreatestOfThreeNumbers_ScannerClass",
+            "projectName": "Java_vscode",
+            "console": "integratedTerminal" // This line ensures input works.
+        }
+    ]
+}
